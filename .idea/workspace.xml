@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d03778a8-e33b-4977-930e-8fb49e7ad59d" name="Changes" comment="LeetcodeSol">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/longestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GreatestCommonDiv.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2L8Dwa2RvWzfHYy2GMnSFBIrz8c" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,8 +65,16 @@
       <workItem from="1675245461996" duration="1662000" />
       <workItem from="1675248459722" duration="152000" />
       <workItem from="1675248620828" duration="198000" />
-      <workItem from="1675261805789" duration="1636000" />
+      <workItem from="1675261805789" duration="1789000" />
     </task>
+    <task id="LOCAL-00001" summary="LeetcodeSol">
+      <created>1675263515893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675263515893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
